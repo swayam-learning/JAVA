@@ -29,9 +29,12 @@ class Population{
         System.out.print(this.Name+" ");
         System.out.print(this.age+" ");
         System.out.println(TotalPeople);
+        // Non-Static function can have access to both static and non-static variables
 
     }
     static int getTotalPeople_Private(){
-       return TotalPeople_Private;
+       //static variables are class specific hence called  class variables
+        // they do not use this. keyword as they can be access without objects
+       return TotalPeople_Private; //static method have access to only static variables
     }
 }
