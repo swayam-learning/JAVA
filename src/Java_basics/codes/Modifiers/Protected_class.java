@@ -6,7 +6,7 @@ public class Protected_class {
         b1.fun();
     }
 
-    public static class b {
+    public static class b { // this is public class can be accessed anywhere
         protected void fun() {
             System.out.println("Protected Package");
         }

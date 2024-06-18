@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="24a78eaa-16fa-43ae-b448-66978f211078" name="Changes" comment="second commit">
-      <change afterPath="$PROJECT_DIR$/src/Java_basics/codes/Explain_access_modifiers/Default_class_experiment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_basics/codes/Explain_access_modifiers/Protecte_Access.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_basics/codes/Modifiers/Default_access.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_basics/codes/Modifiers/Protected_class.java" afterDir="false" />
+    <list default="true" id="24a78eaa-16fa-43ae-b448-66978f211078" name="Changes" comment="third commit">
+      <change afterPath="$PROJECT_DIR$/src/Java_basics/codes/Static_members/Static_concepts.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java_basics/codes/Modifiers/Protected_class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_basics/codes/Modifiers/Protected_class.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +47,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Private_access (1)">
+  <component name="RunManager" selected="Application.Static_concepts (3)">
     <configuration name="Access_modifiers (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java_basics.codes.Access_modifiers" />
       <module name="JAVA_DSA_LEARNING" />
@@ -89,19 +87,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Private_access" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_basics.codes.Modifiers.Private_access" />
-      <module name="JAVA_DSA_LEARNING" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Java_basics.codes.Modifiers.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Private_modifiers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java_basics.codes.Modifiers.Private_modifiers" />
       <module name="JAVA_DSA_LEARNING" />
@@ -128,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="this_keyword (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_basics.codes.Classes_Objects.this_keyword" />
+    <configuration name="Static_concepts (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_basics.codes.Static_members.Static_concepts" />
       <module name="JAVA_DSA_LEARNING" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_basics.codes.Classes_Objects.*" />
+          <option name="PATTERN" value="Java_basics.codes.Static_members.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,12 +126,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="this_keyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_basics.codes.Classes_Objects.this_keyword" />
+    <configuration name="Static_concepts (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_basics.codes.Static_members.Static_concepts" />
       <module name="JAVA_DSA_LEARNING" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_basics.codes.Classes_Objects.*" />
+          <option name="PATTERN" value="Java_basics.codes.Static_members.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Static_concepts (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_basics.codes.Static_members.Static_concepts" />
+      <module name="JAVA_DSA_LEARNING" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java_basics.codes.Static_members.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Static_concepts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_basics.codes.Static_members.Static_concepts" />
+      <module name="JAVA_DSA_LEARNING" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java_basics.codes.Static_members.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Static_concepts (3)" />
+        <item itemvalue="Application.Static_concepts" />
+        <item itemvalue="Application.Static_concepts (2)" />
+        <item itemvalue="Application.Static_concepts (1)" />
         <item itemvalue="Application.Private_access (1)" />
-        <item itemvalue="Application.Private_access" />
-        <item itemvalue="Application.Private_modifiers" />
-        <item itemvalue="Application.Private_modifiers" />
-        <item itemvalue="Application.this_keyword" />
       </list>
     </recent_temporary>
   </component>
@@ -194,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1718697349171</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="third commit">
+      <created>1718711562276</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1718711562276</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -212,7 +230,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="First commit" />
     <MESSAGE value="second commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
+    <MESSAGE value="third commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="third commit" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
