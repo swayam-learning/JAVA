@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24a78eaa-16fa-43ae-b448-66978f211078" name="Changes" comment="fourth commit">
-      <change beforePath="$PROJECT_DIR$/src/Java_basics/codes/Final_Keyword/Final_in_objects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_basics/codes/Final_Keyword/Final_in_objects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_basics/codes/OOPs/Encapsulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_basics/codes/OOPs/Inheritance/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_basics/codes/OOPs/Inheritance/Box_Weight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_basics/codes/OOPs/Inheritance/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions/easy/q1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java_basics/codes/Static_members/Static_concepts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_basics/codes/Static_members/Static_concepts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java_basics/codes/functions/Overloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_basics/codes/functions/Overloading.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,13 +52,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Final_in_objects">
-    <configuration name="Access_modifiers (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_basics.codes.Access_modifiers" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Derived" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Questions.easy.Derived" />
       <module name="JAVA_DSA_LEARNING" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_basics.codes.*" />
+          <option name="PATTERN" value="Questions.easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Access_modifiers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_basics.codes.Access_modifiers" />
+    <configuration name="GFG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Questions.easy.GFG" />
       <module name="JAVA_DSA_LEARNING" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_basics.codes.*" />
+          <option name="PATTERN" value="Questions.easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Final_in_objects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_basics.codes.Final_Keyword.Final_in_objects" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_basics.codes.OOPs.Inheritance.Main" />
       <module name="JAVA_DSA_LEARNING" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_basics.codes.Final_Keyword.*" />
+          <option name="PATTERN" value="Java_basics.codes.OOPs.Inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Private_modifiers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_basics.codes.Modifiers.Private_modifiers" />
+    <configuration name="q1 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Questions.easy.q1" />
       <module name="JAVA_DSA_LEARNING" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_basics.codes.Modifiers.*" />
+          <option name="PATTERN" value="Questions.easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,64 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Private_modifiers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_basics.codes.Modifiers.Private_modifiers" />
+    <configuration name="q1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Questions.easy.q1" />
       <module name="JAVA_DSA_LEARNING" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_basics.codes.Modifiers.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Static_concepts (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_basics.codes.Static_members.Static_concepts" />
-      <module name="JAVA_DSA_LEARNING" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Java_basics.codes.Static_members.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Static_concepts (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_basics.codes.Static_members.Static_concepts" />
-      <module name="JAVA_DSA_LEARNING" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Java_basics.codes.Static_members.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Static_concepts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_basics.codes.Static_members.Static_concepts" />
-      <module name="JAVA_DSA_LEARNING" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Java_basics.codes.Static_members.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="final_keyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_basics.codes.Final_Keyword.final_keyword" />
-      <module name="JAVA_DSA_LEARNING" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Java_basics.codes.Final_Keyword.*" />
+          <option name="PATTERN" value="Questions.easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Final_in_objects" />
-        <item itemvalue="Application.final_keyword" />
-        <item itemvalue="Application.Static_concepts (3)" />
-        <item itemvalue="Application.Static_concepts" />
-        <item itemvalue="Application.Static_concepts (2)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Derived" />
+        <item itemvalue="Application.q1" />
+        <item itemvalue="Application.q1 (2)" />
+        <item itemvalue="Application.GFG" />
       </list>
     </recent_temporary>
   </component>
@@ -224,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1718715419383</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="fourth commit">
+      <created>1718715736186</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1718715736186</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

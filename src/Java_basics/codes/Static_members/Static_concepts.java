@@ -38,3 +38,4 @@ class Population{
        return TotalPeople_Private; //static method have access to only static variables
     }
 }
+//Static variables are associated with the class and are, therefore, not allowed inside a method body.
