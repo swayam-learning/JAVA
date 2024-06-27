@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="24a78eaa-16fa-43ae-b448-66978f211078" name="Changes" comment="too lazy to commit" />
+    <list default="true" id="24a78eaa-16fa-43ae-b448-66978f211078" name="Changes" comment="too lazy to commit">
+      <change afterPath="$PROJECT_DIR$/src/Java_basics/codes/OOPs/Encapsulation/encapsulation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,39 +47,39 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Derived" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Questions.easy.Derived" />
-      <module name="JAVA_DSA_LEARNING" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Questions.easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GFG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Questions.easy.GFG" />
-      <module name="JAVA_DSA_LEARNING" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Questions.easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.encapsulation">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java_basics.codes.OOPs.Inheritance.Main" />
       <module name="JAVA_DSA_LEARNING" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Java_basics.codes.OOPs.Inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="encapsulation (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_basics.codes.OOPs.Encapsulation.encapsulation" />
+      <module name="JAVA_DSA_LEARNING" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java_basics.codes.OOPs.Encapsulation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="encapsulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_basics.codes.OOPs.Encapsulation.encapsulation" />
+      <module name="JAVA_DSA_LEARNING" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java_basics.codes.OOPs.Encapsulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Derived" />
+        <item itemvalue="Application.encapsulation" />
+        <item itemvalue="Application.encapsulation (1)" />
         <item itemvalue="Application.q1" />
         <item itemvalue="Application.q1 (2)" />
-        <item itemvalue="Application.GFG" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
