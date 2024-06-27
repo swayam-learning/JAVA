@@ -1,4 +1,4 @@
-package Java_basics.codes.Arrays;
+package Java_basics.codes.DSA.Arrays.Arrays;
 
 public class Basics {
     public static void main(String[] args) {
