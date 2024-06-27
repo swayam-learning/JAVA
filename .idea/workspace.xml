@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="24a78eaa-16fa-43ae-b448-66978f211078" name="Changes" comment="we still trying to start dsa">
-      <change afterPath="$PROJECT_DIR$/src/Java_basics/codes/DSA/Arrays/Array_memory_concepts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_basics/codes/DSA/Arrays/_2darrays/2darrays.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_basics/codes/DSA/Arrays/_2darrays/_2darrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_basics/codes/DSA/Arrays/array_memory_concepts.png" afterDir="false" />
+    <list default="true" id="24a78eaa-16fa-43ae-b448-66978f211078" name="Changes" comment="started with arrays">
+      <change afterPath="$PROJECT_DIR$/src/Questions/easy/Leetcode/building_array_permutation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_basics/codes/Arrays/Basics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_basics/codes/DSA/Arrays/Arrays/Basics.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +105,7 @@
       <module name="JAVA_DSA_LEARNING" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Questions.easy.*" />
+          <option name="PATTERN" value="Questions.easy.Leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -213,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1719514926944</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="started with arrays">
+      <created>1719521657085</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1719521657085</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -236,7 +239,8 @@
     <MESSAGE value="fifth commit" />
     <MESSAGE value="too lazy to commit" />
     <MESSAGE value="we still trying to start dsa" />
-    <option name="LAST_COMMIT_MESSAGE" value="we still trying to start dsa" />
+    <MESSAGE value="started with arrays" />
+    <option name="LAST_COMMIT_MESSAGE" value="started with arrays" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
