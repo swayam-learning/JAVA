@@ -1,4 +1,4 @@
-package OOPs.abstraction101.interfaces;
+package Java_basics.codes.OOPs.abstraction101.interfaces;
 
 //Nested Interface in Java
 //        Note: An interface can have another interface which is known as a nested interface. We will learn it in detail in the nested classes chapter. For example:

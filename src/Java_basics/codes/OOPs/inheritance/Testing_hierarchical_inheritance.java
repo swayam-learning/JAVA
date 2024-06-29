@@ -1,4 +1,4 @@
-package OOPs.inheritance;
+package Java_basics.codes.OOPs.inheritance;
 
 public class Testing_hierarchical_inheritance {
     public static void main(String[] args) {

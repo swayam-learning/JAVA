@@ -1,4 +1,4 @@
-package this_keyword;
+package Java_basics.codes.this_keyword;
 
 public class this_keyword {
     public static void main(String[] args) {

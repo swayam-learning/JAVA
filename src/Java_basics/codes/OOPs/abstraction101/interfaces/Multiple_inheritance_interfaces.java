@@ -1,4 +1,4 @@
-package OOPs.abstraction101.interfaces;
+package Java_basics.codes.OOPs.abstraction101.interfaces;
 
 public class Multiple_inheritance_interfaces{
     public static void main(String[] args) {
