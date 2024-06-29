@@ -1,4 +1,4 @@
-package OOPs.Method_overriding;
+package Java_basics.codes.OOPs.Method_overriding;
 public class Covariant_return_types {
     public static void main(String[] args) {
         a obj = new a();

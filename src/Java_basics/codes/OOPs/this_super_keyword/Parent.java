@@ -1,4 +1,4 @@
-package OOPs.this_super_keyword;
+package Java_basics.codes.OOPs.this_super_keyword;
 class TestSuper5{
     public static void main(String[] args){
         Emp e1=new Emp(23,"Swayam",45000f,42);

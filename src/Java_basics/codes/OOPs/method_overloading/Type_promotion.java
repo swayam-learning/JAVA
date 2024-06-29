@@ -1,4 +1,4 @@
-package OOPs.method_overloading;
+package Java_basics.codes.OOPs.method_overloading;
 
 class OverloadingCalculation1{
     void sum(int a,float b){System.out.println(a+b);}

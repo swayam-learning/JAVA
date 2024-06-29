@@ -1,4 +1,4 @@
-package basic_class_objects;
+package Java_basics.codes.basic_class_objects;
 
 public class basic {
     public static void main(String[] args) {

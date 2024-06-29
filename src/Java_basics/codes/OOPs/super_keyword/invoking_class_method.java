@@ -1,4 +1,4 @@
-package OOPs.super_keyword;
+package Java_basics.codes.OOPs.super_keyword;
 
 public class invoking_class_method {
     public static void main(String[] args) {

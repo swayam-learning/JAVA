@@ -1,4 +1,4 @@
-package OOPs.method_overloading;
+package Java_basics.codes.OOPs.method_overloading;
 
 class OverloadingCalculation2{
     void sum(int a,int b){System.out.println("int arg method invoked");}

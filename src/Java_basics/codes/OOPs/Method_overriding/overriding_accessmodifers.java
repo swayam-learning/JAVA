@@ -1,4 +1,4 @@
-package OOPs.Method_overriding;
+package Java_basics.codes.OOPs.Method_overriding;
 
 class A {
     protected void msg() {

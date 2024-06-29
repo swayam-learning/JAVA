@@ -1,4 +1,4 @@
-package OOPs.instance_initializer_block;
+package Java_basics.codes.OOPs.instance_initializer_block;
 
 class A{
     A(){

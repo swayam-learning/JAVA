@@ -1,4 +1,4 @@
-package OOPs.abstraction101.interfaces;
+package Java_basics.codes.OOPs.abstraction101.interfaces;
 
 public class default_interface {
     public static void main(String[] args) {

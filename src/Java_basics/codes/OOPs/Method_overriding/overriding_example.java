@@ -1,4 +1,4 @@
-package OOPs.Method_overriding;
+package Java_basics.codes.OOPs.Method_overriding;
 
 public class overriding_example {
     public static void main(String[] args) {

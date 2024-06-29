@@ -1,4 +1,4 @@
-package basic_class_objects;
+package Java_basics.codes.basic_class_objects;
 public class working_on_constructors {
     public static void main(String[] args) {
         student.change(); // first we called the static function to change the name of the school
