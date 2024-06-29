@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="24a78eaa-16fa-43ae-b448-66978f211078" name="Changes" comment="learning">
-      <change afterPath="$PROJECT_DIR$/src/Java_basics/codes/DSA/ArrayList/Dynamic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_basics/codes/DSA/ArrayList/implementatio.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_basics/codes/DSA/Arrays/_2darrays/_2dArrayInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_basics/codes/DSA/Arrays/_2darrays/_2darrayinput.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_basics/codes/DSA/Arrays/jaggedArrays/JaggedArrays.java" afterDir="false" />
+    <list default="true" id="24a78eaa-16fa-43ae-b448-66978f211078" name="Changes" comment="learning Arrays">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java_basics/codes/DSA/implementList/ArrayListImplement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_basics/codes/DSA/implementList/ArrayListImplement.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,13 +47,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Dynamic">
-    <configuration name="Array_memory_concepts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_basics.codes.DSA.Arrays.Array_memory_concepts" />
+  <component name="RunManager" selected="Application.ArrayListImplement">
+    <configuration name="ArrayListImplement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_basics.codes.DSA.implementList.ArrayListImplement" />
       <module name="JAVA_DSA_LEARNING" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_basics.codes.DSA.Arrays.*" />
+          <option name="PATTERN" value="Java_basics.codes.DSA.implementList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayListImplement" />
         <item itemvalue="Application.Dynamic" />
         <item itemvalue="Application.JaggedArrays" />
         <item itemvalue="Application._2dArrayInput" />
         <item itemvalue="Application._2darrays" />
-        <item itemvalue="Application.Array_memory_concepts" />
       </list>
     </recent_temporary>
   </component>
@@ -248,7 +244,14 @@
       <option name="project" value="LOCAL" />
       <updated>1719682626217</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="learning Arrays">
+      <created>1719688158403</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1719688158403</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -274,7 +277,8 @@
     <MESSAGE value="started with arrays" />
     <MESSAGE value="learning arrays" />
     <MESSAGE value="learning" />
-    <option name="LAST_COMMIT_MESSAGE" value="learning" />
+    <MESSAGE value="learning Arrays" />
+    <option name="LAST_COMMIT_MESSAGE" value="learning Arrays" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
