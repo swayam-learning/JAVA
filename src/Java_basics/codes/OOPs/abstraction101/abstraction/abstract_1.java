@@ -1,4 +1,4 @@
-package OOPs.abstraction101.abstraction;
+package Java_basics.codes.OOPs.abstraction101.abstraction;
 
 public class abstract_1 {
     public static void main(String[] args) {
