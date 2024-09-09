@@ -9,3 +9,5 @@ public class polymorphism {
 // If there is any private, final or static method in a class, there is static binding. and we are inheriting from
 // that it is called static binding
 //if it is simply package-private(default) then it is dynamic binding
+// Stack<> st = new Stack<> (); compile time because left side defines the function
+// Queue <> q1 = new LinkedList<>(); runtime because right side defines the function

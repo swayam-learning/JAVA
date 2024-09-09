@@ -1,7 +1,4 @@
 package Java_basics.codes.basic_class_objects;
-
-
-
 public class classes_objects {
     public static void main(String[] args) {
         learning ln = new learning("swayam",21,42);
