@@ -7,6 +7,7 @@ public class this_keyword {
         pointer1 p1 = new pointer1(30,40);
         p1.print();
         pointer2 p2 = new pointer2(30,40);
+        p2.print();
         p2.setX(2).setY(3);//chaining of functions possible using this reference
         p2.print();
         pointer3 p3 = new pointer3(20,30);
@@ -14,6 +15,7 @@ public class this_keyword {
         pointer3 p4 = new pointer3();
         p4.print();
         Test object = new Test();
+        object.get();
         object.get().display();//chaining of functions possible using this reference
 
     }
@@ -62,7 +64,7 @@ class pointer2{
         System.out.println(x+" "+y);
     }
 }
-//When parameter names are the same as instance variable names, this is used to distinguish between the instance
+//When parameter names are the same as instance variable names, "this" is used to distinguish between the instance
 // variables and the parameters.
 //java
 //Copy code

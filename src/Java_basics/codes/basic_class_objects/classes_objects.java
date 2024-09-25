@@ -40,7 +40,7 @@ class learning{
 }
 //if we don't provide any value then it will return null 0 0 because java's default constructor will fo the work
 //in java we don't have return type for constructors we can use access modifiers with constructors/
-//the constructor name must be same with thw class name
+//the constructor name must be same with the class name
 //Does constructor return any value?
 //Yes, it is the current class instance (You cannot use return type yet it returns a value).
 //Can constructor perform other tasks instead of initialization?

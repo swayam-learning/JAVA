@@ -1,25 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="24a78eaa-16fa-43ae-b448-66978f211078" name="Changes" comment="learnt ArrayList Implementation">
-      <change afterPath="$PROJECT_DIR$/src/Java_basics/codes/Collections/Interfaces/Deque/Deques.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_basics/codes/Collections/Interfaces/Queues/Queues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_basics/codes/Collections/PriorityQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_basics/codes/Collections/Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_basics/codes/Collections/classes/ArrayDeque/ArrayDeques.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_basics/codes/Collections/classes/Arraylist/Arraylists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_basics/codes/Collections/classes/LinkedList/LinkedLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_basics/codes/Collections/classes/Lists/lists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_basics/codes/Collections/classes/PriorityQueue/PriorityQueues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_basics/codes/Collections/classes/Stack/Stacks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_basics/codes/Collections/lists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_basics/codes/DataStructures/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Questions/easy/Leetcode/Solution_Divisors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Questions/easy/palindrome.java" afterDir="false" />
+    <list default="true" id="24a78eaa-16fa-43ae-b448-66978f211078" name="Changes" comment="Learnt Collections">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_basics/codes/OOPs/Polymorphism/polymorphism.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_basics/codes/OOPs/Polymorphism/polymorphism.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java_basics/codes/Classes_Objects/this_keyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_basics/codes/Classes_Objects/this_keyword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java_basics/codes/basic_class_objects/basic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_basics/codes/basic_class_objects/basic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Java_basics/codes/basic_class_objects/classes_objects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_basics/codes/basic_class_objects/classes_objects.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Questions/easy/Leetcode/_1920_Build_Array_from_Permutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions/easy/Leetcode/_1920_Build_Array_from_Permutation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java_basics/codes/basic_class_objects/working_on_constructors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_basics/codes/basic_class_objects/working_on_constructors.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +58,7 @@
       <recent name="Java_basics.codes.Collections.classes.Lists" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PriorityQueues">
+  <component name="RunManager" selected="Application.this_keyword">
     <configuration name="Deques" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java_basics.codes.Collections.Interfaces.Deque.Deques" />
       <module name="JAVA_DSA_LEARNING" />
@@ -98,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Queues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_basics.codes.Collections.Interfaces.Queues.Queues" />
+    <configuration name="class_objects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_basics.codes.Classes_Objects.class_objects" />
       <module name="JAVA_DSA_LEARNING" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_basics.codes.Collections.Interfaces.Queues.*" />
+          <option name="PATTERN" value="Java_basics.codes.Classes_Objects.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Stacks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_basics.codes.Collections.classes.Stack.Stacks" />
+    <configuration name="this_keyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_basics.codes.Classes_Objects.this_keyword" />
       <module name="JAVA_DSA_LEARNING" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_basics.codes.Collections.classes.Stack.*" />
+          <option name="PATTERN" value="Java_basics.codes.Classes_Objects.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="variables_people" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_basics.codes.variables_people" />
+    <configuration name="working_on_constructors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_basics.codes.basic_class_objects.working_on_constructors" />
       <module name="JAVA_DSA_LEARNING" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_basics.codes.*" />
+          <option name="PATTERN" value="Java_basics.codes.basic_class_objects.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.this_keyword" />
+        <item itemvalue="Application.class_objects" />
+        <item itemvalue="Application.working_on_constructors" />
         <item itemvalue="Application.PriorityQueues" />
         <item itemvalue="Application.Deques" />
-        <item itemvalue="Application.Stacks" />
-        <item itemvalue="Application.Queues" />
-        <item itemvalue="Application.Queues" />
       </list>
     </recent_temporary>
   </component>
@@ -282,7 +269,14 @@
       <option name="project" value="LOCAL" />
       <updated>1719690926682</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Learnt Collections">
+      <created>1725846892039</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1725846892039</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -310,7 +304,8 @@
     <MESSAGE value="learning" />
     <MESSAGE value="learning Arrays" />
     <MESSAGE value="learnt ArrayList Implementation" />
-    <option name="LAST_COMMIT_MESSAGE" value="learnt ArrayList Implementation" />
+    <MESSAGE value="Learnt Collections" />
+    <option name="LAST_COMMIT_MESSAGE" value="Learnt Collections" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

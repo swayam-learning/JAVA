@@ -50,7 +50,7 @@ class student{
 // class and acquires memory only once
 //local variables are only limited to a method and acquires memory once
 //all the objects are created and stored in the stack memory but all others are stored in the heap memory
-// s1 object  here is stored in the heap memory
+// s1 object  here is stored in the stack memory
 //but values like name = "swayam" are stored in the heap memory
 //There are two main restrictions for the static method. They are:
 // 1. The static method can not use non static data member or call non-static method directly.
