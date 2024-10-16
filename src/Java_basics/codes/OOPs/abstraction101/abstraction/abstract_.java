@@ -18,6 +18,8 @@ public class abstract_ {
 // 3 .It cannot be instantiated.
 // 4. It can have constructors and static methods also.
 // 5. It can have final methods which will force the subclass not to change the body of the method.
+// 6.No, you cannot write any implementation inside an abstract method.
+//   Abstract methods are meant to be a placeholder for functionality that must be provided by subclasses.
 abstract class Banks{
     abstract int getRateOfInterest();
 }
