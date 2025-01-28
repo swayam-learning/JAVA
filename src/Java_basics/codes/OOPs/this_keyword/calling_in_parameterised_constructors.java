@@ -19,9 +19,9 @@ class student1{
     }
     student1(String name,int age,int roll_no,String school){//method overloading
         this(name,age,roll_no); //Rule: Call to this() must be the first statement in constructor.
-        this.name = name;
-        this.age = age;
-        this.roll_no = roll_no;
+//        this.name = name;
+//        this.age = age;
+//        this.roll_no = roll_no;
         this.school = school;
         System.out.println("the school name is "+school);
     }

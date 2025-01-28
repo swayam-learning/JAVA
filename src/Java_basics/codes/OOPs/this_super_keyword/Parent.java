@@ -6,8 +6,6 @@ class TestSuper5{
         e1.display();
         e2.display2();
     }}
-
-
 class Person{
     int id;
     String name;

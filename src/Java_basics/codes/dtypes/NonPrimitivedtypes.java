@@ -18,4 +18,4 @@ class point{
     int x;
     int y;
 }
-// non primitive data types are stored in heap memory and for non primitive we do not have to initialise them
+// non primitive data types are stored in heap memory and  we do not have to initialise them

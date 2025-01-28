@@ -9,6 +9,7 @@ public class abstract_1 {
 }
 abstract class bike{
     bike(){
+
         System.out.println("the bike is created");
     }
     abstract void run();

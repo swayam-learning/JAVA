@@ -3,6 +3,7 @@ package Questions.easy;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.util.Scanner;
 
 public class Sum_of_first_n_digits {
     static int  sum(int n){
@@ -18,4 +19,5 @@ public class Sum_of_first_n_digits {
         System.out.println("the sum of first "+a+" numbers is "+sum(a));
 
     }
+
 }
