@@ -1,6 +1,6 @@
 package Questions.easy.Leetcode;
 
-import java.util.Arrays;
+import java.util.ArrayList;
 
 public class _1920_Build_Array_from_Permutation {
         public static int[] buildArray(int[] nums) {

@@ -2,22 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24a78eaa-16fa-43ae-b448-66978f211078" name="Changes" comment="Learnt Collections">
-      <change afterPath="$PROJECT_DIR$/src/Java_basics/codes/Recursion/Recursions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_basics/codes/Recursion/recursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_basics/codes/ds/Arrays/array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_basics/codes/ds/Arrays/array2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_basics/codes/ds/Arrays/array_2d.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_basics/codes/multilevelinheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Questions/easy/gcd.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_basics/codes/OOPs/abstraction101/abstraction/abstract_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_basics/codes/OOPs/abstraction101/abstraction/abstract_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_basics/codes/OOPs/this_keyword/calling_in_parameterised_constructors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_basics/codes/OOPs/this_keyword/calling_in_parameterised_constructors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_basics/codes/OOPs/this_super_keyword/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_basics/codes/OOPs/this_super_keyword/Parent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_basics/codes/functions/Questions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_basics/codes/functions/shadowing.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_basics/codes/output_formatting/output_formatting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_basics/codes/output_formatting/output_formatting.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Java_basics/codes/variables_people.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_basics/codes/variables_people.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Questions/easy/Sum_of_first_n_digits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions/easy/Sum_of_first_n_digits.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +58,7 @@
       <recent name="Java_basics.codes.Collections.classes.Lists" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.variables_people">
+  <component name="RunManager" selected="Application.abstract_1">
     <configuration name="Recursions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java_basics.codes.Recursion.Recursions" />
       <module name="JAVA_DSA_LEARNING" />
@@ -86,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="array2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_basics.codes.ds.Arrays.array2" />
+    <configuration name="abstract_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_basics.codes.OOPs.abstraction101.abstraction.abstract_1" />
       <module name="JAVA_DSA_LEARNING" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_basics.codes.ds.Arrays.*" />
+          <option name="PATTERN" value="Java_basics.codes.OOPs.abstraction101.abstraction.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.abstract_1" />
         <item itemvalue="Application.variables_people" />
         <item itemvalue="Application.gcd" />
         <item itemvalue="Application.Recursions" />
         <item itemvalue="Application.recursion" />
-        <item itemvalue="Application.array2" />
       </list>
     </recent_temporary>
   </component>
@@ -304,7 +290,14 @@
       <option name="project" value="LOCAL" />
       <updated>1729097929850</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Learnt Collections">
+      <created>1738093559551</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1738093559551</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
