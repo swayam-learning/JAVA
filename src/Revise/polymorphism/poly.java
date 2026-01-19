@@ -1,5 +1,4 @@
-package Revise.inheritance.super_;
-
+package Revise.polymorphism;
 class vehicle1{
     // Base Class
     String numberofVehicle;
@@ -21,9 +20,10 @@ class cars1 extends vehicle1 {
     public cars1(String numberofCars){
         super(numberofCars);
     }
-    // public void prinNumberPlate(){
-    //     System.out.println(this.numberofCars);
-    // } this will be uselss as we are not assigning this.numberofCars = numberofCars
+    @Override
+    public void honk(){
+        System.out.println("Honk differently");
+    }
 }
 class bus extends vehicle1 {
     // Derived Class
@@ -32,8 +32,8 @@ class bus extends vehicle1 {
         super(numberofBus);
     }
 }
-public class inherit{
-    public static void main(String[] args) {
+public class poly {
+        public static void main(String[] args) {
         cars1 c1 = new cars1("KKKFEFEW");
         c1.prinNumberPlate();
         c1.honk();
@@ -42,6 +42,5 @@ public class inherit{
         bus b1 = new bus("KKKFEFEW");
         b1.prinNumberPlate();
         b1.honk();
-
     }
 }
