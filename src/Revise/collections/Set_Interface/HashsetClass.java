@@ -15,5 +15,6 @@ public class HashsetClass {
             System.out.println(a);
             
         }
+        // O(1) -- no sorting
     }
 }
